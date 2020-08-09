@@ -1,0 +1,15 @@
+2020-08-09 01:06:12,791 :INFO : test_disabledtext :********** Test with Dynamic controls has started **********
+2020-08-09 01:06:30,314 :INFO : test_loginwithvalidcredentials :********** Login test with Valid credentials has started **********
+2020-08-09 01:06:39,159 :INFO : test_loginwithInvalidCredentials :********** Login test with invalid credentials has started **********
+2020-08-09 01:06:50,539 :INFO : test_loginwithInvalidCredentials :********** Login test with invalid credentials has started **********
+2020-08-09 01:06:50,539 :INFO : test_loginwithInvalidCredentials :********** Login test with invalid credentials has started **********
+2020-08-09 01:06:59,518 :INFO : test_loginwithInvalidCredentials :********** Login test with invalid credentials has started **********
+2020-08-09 01:06:59,518 :INFO : test_loginwithInvalidCredentials :********** Login test with invalid credentials has started **********
+2020-08-09 01:06:59,518 :INFO : test_loginwithInvalidCredentials :********** Login test with invalid credentials has started **********
+2020-08-09 01:07:08,299 :INFO : test_loginwithInvalidCredentials :********** Login test with invalid credentials has started **********
+2020-08-09 01:07:08,299 :INFO : test_loginwithInvalidCredentials :********** Login test with invalid credentials has started **********
+2020-08-09 01:07:08,299 :INFO : test_loginwithInvalidCredentials :********** Login test with invalid credentials has started **********
+2020-08-09 01:07:08,299 :INFO : test_loginwithInvalidCredentials :********** Login test with invalid credentials has started **********
+2020-08-09 01:07:17,315 :INFO : test_clickonnewtab :*************  Open New browser test has started ************
+2020-08-09 01:07:22,421 :INFO : test_clickonnewtab :*************  Open New browser test has ended ************
+2020-08-09 01:07:29,723 :INFO : test_sorttable :********** Test to sort tables has started **********
